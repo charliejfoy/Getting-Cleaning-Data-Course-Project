@@ -95,6 +95,6 @@ run_analysis <- function(){
      cdld <- dcast(cdl,SubjectID + ActivityID ~ variable,mean)
      
      #Write the tidy data to a file.
-     write.table(cdld,file = "./Assignment Step 5.txt",row.names = F)
+     write.table(cdld,file = "./Tidy Data Set.txt",row.names = F)
      
 }
