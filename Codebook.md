@@ -72,425 +72,394 @@ Class: Factor
 Values: [LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS]
 
 Variable Name: tBodyAcc-mean-X
-Description: 
+Description: mean value of the X-axial acceleration of the body 
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAcc-mean-Y
-Description: 
+Description: mean value of the Y-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAcc-mean-Z
-Description: 
+Description: mean value of the Z-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAcc-std-X
-Description: 
+Description: standard deviation of the X-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAcc-std-Y
-Description: 
+Description: standard deviation of the Y-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAcc-std-Z
-Description: 
+Description: standard deviation of the Z-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tGravityAcc-mean-X
-Description: 
+Description: mean value of the X-axial acceleration of gravity
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tGravityAcc-mean-Y
-Description: 
+Description: mean value of the Y-axial acceleration of gravity
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tGravityAcc-mean-Z
-Description: 
+Description: mean value of the Z-axial acceleration of gravity
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tGravityAcc-std-X
-Description: 
+Description: standard deviation of the X-axial acceleration of gravity
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tGravityAcc-std-Y
-Description: 
+Description: standard deviation of the Y-axial acceleration of gravity
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tGravityAcc-std-Z
-Description: 
+Description: standard deviation of the Z-axial acceleration of gravity
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAccJerk-mean-X
-Description: 
+Description: mean X-axial Jerk signal, derived from acceleration in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAccJerk-mean-Y
-Description: 
+Description: mean Y-axial Jerk signal, derived from acceleration in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAccJerk-mean-Z
-Description: 
+Description: mean Z-axial Jerk signal, derived from acceleration in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAccJerk-std-X
-Description: 
+Description: standard deviation of the X-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAccJerk-std-Y
-Description: 
+Description: standard deviation of the Y-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyAccJerk-std-Z
-Description: 
+Description: standard deviation of the Z-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: tBodyGyro-mean-X
-Description: 
+Description: mean values of the X-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyro-mean-Y
-Description: 
+Description: mean values of the Y-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyro-mean-Z
-Description: 
+Description: mean values of the Z-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyro-std-X
-Description: 
+Description: Standard deviation of the X-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyro-std-Y
-Description: 
+Description: Standard deviation of the Y-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyro-std-Z
-Description: 
+Description: Standard deviation of the Z-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyroJerk-mean-X
-Description: 
+Description: mean X-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyroJerk-mean-Y
-Description: 
+Description: mean Y-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyroJerk-mean-Z
-Description: 
+Description: mean Z-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyroJerk-std-X
-Description: 
+Description: standard deviation of the X-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyroJerk-std-Y
-Description: 
+Description: standard deviation of the Y-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyGyroJerk-std-Z
-Description: 
+Description: standard deviation of the Z-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: tBodyAccMag-mean
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: mean value of the magnitude of the 3-axial accelerometer signals derived by Euclidian norm of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: tBodyAccMag-std
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: standard deviation of the magnitude of the 3-axial accelerometer signals derived by Euclidian norm of the body
+Class: Number 
 Value range: [-1,1]
+
 Variable Name: tGravityAccMag-mean
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: mean value of the magnitude of the 3-axial accelerometer signals derived by Euclidian norm of gravity
+Class: Number 
 Value range: [-1,1]
+
 Variable Name: tGravityAccMag-std
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: standard deviation of the magnitude of the 3-axial accelerometer signals derived by Euclidian norm of gravity
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: tBodyAccJerkMag-mean
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: mean values of the magnitude of the 3-axial accelerometer Jerk signals of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: tBodyAccJerkMag-std
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: standard deviation of the magnitude of the 3-axial accelerometer Jerk signals of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: tBodyGyroMag-mean
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: mean value of the magnitude of the 3-axial gyroscope signals derived by Euclidian norm of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: tBodyGyroMag-std
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: standard deviation of the magnitude of the 3-axial gyroscope signals derived by Euclidian norm of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: tBodyGyroJerkMag-mean
-Description: 
+Description: mean values of the magnitude of the 3-axial gyroscope Jerk signals of the body
 Class: Number
-Unit of Measurement: 
 Value range: [-1,1]
 
 Variable Name: tBodyGyroJerkMag-std
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: standard deviation of the magnitude of the 3-axial gyroscope Jerk signals of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: fBodyAcc-mean-X
-Description: 
+Description: Fast Fourier Transform mean value of the X-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAcc-mean-Y
-Description: 
+Description: Fast Fourier Transform mean value of the Y-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAcc-mean-Z
-Description: 
+Description: Fast Fourier Transform mean value of the Z-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAcc-std-X
-Description: 
+Description: Fast Fourier Transform standard deviation of the X-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAcc-std-Y
-Description: 
+Description: Fast Fourier Transform standard deviation of the Y-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAcc-std-Z
-Description: 
+Description: Fast Fourier Transform standard deviation of the Z-axial acceleration of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAccJerk-mean-X
-Description: 
+Description: Fast Fourier Transform mean X-axial Jerk signal, derived from acceleration in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAccJerk-mean-Y
-Description: 
+Description: Fast Fourier Transform mean Y-axial Jerk signal, derived from acceleration in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAccJerk-mean-Z
-Description: 
+Description: Fast Fourier Transform mean Z-axial Jerk signal, derived from acceleration in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAccJerk-std-X
-Description: 
+Description: Fast Fourier Transform standard deviation of the X-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAccJerk-std-Y
-Description: 
+Description: Fast Fourier Transform standard deviation of the Y-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyAccJerk-std-Z
-Description: 
+Description: Fast Fourier Transform standard deviation of the Z-axial Jerk signal, derived from angular velocity in time, of the body
 Class: Number
 Unit of Measurement: Standard gravity units (g)
 Value range: [-1,1]
 
 Variable Name: fBodyGyro-mean-X
-Description: 
+Description: Fast Fourier Transform mean values of the X-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: fBodyGyro-mean-Y
-Description: 
+Description: Fast Fourier Transform mean values of the Y-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
+
 Variable Name: fBodyGyro-mean-Z
-Description: 
+Description: Fast Fourier Transform mean values of the Z-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
+
 Variable Name: fBodyGyro-std-X
-Description: 
+Description: Fast Fourier Transform Standard deviation of the X-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: fBodyGyro-std-Y
-Description: 
+Description: Fast Fourier Transform Standard deviation of the Y-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: fBodyGyro-std-Z
-Description: 
+Description: Fast Fourier Transform Standard deviation of the Z-axial angular velocity of the body
 Class: Number
 Unit of Measurement: Angular Velocity (radians/second)
 Value range: [-1,1]
 
 Variable Name: fBodyAccMag-mean
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: Fast Fourier Transform mean values of the magintude of the 3-axial accelerometer of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: fBodyAccMag-std
-Description: 
+Description: Fast Fourier Transform standard deviation of the magintude of the 3-axial accelerometer of the body
 Class: Number
-Unit of Measurement: 
 Value range: [-1,1]
 
 Variable Name: fBodyAccJerkMag-mean
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: Fast Fourier Transform mean values of the magintude of the Jerk Signal of the 3-axial accelerometer of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: fBodyAccJerkMag-std
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: Fast Fourier Transform standard deviation of the magintude of the Jerk Signal of the 3-axial accelerometer of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: fBodyGyroMag-mean
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: Fast Fourier Transform mean values of the magintude of the 3-axial gyroscope signal of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: fBodyGyroMag-std
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: Fast Fourier Transform standard deviation of the magintude of the 3-axial gyroscope signal of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: fBodyGyroJerkMag-mean
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: Fast Fourier Transform mean values of the magintude of the Jerk Signal of the 3-axial gyroscope signal of the body
+Class: Number 
 Value range: [-1,1]
 
 Variable Name: fBodyGyroJerkMag-std
-Description: 
-Class: Number
-Unit of Measurement: 
+Description: Fast Fourier Transform standard derivation of the magintude of the Jerk Signal of the 3-axial gyroscope signal of the body
+Class: Number 
 Value range: [-1,1]
 
 
 
 
+##Sources
 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
+1 - Smartlab - Non-Linear Complex Systems Laboratory
+DITEN - Università degli Studi di Genova, Genoa (I-16145), Italy. 
+2 - CETpD - Technical Research Centre for Dependency Care and Autonomous Living
+Universitat Politècnica de Catalunya (BarcelonaTech). Vilanova i la Geltrú (08800), Spain
+activityrecognition '@' smartlab.ws
 
-
-
-
-Variable 1 (repeat this section for all variables in the dataset)
-
-Short description of what the variable describes.
-
-Some information on the variable including:
-
-Class of the variable
-Unique values/levels of the variable
-Unit of measurement (if no unit of measurement list this as well)
-In case names follow some schema, describe how entries were constructed (for example time-body-gyroscope-z has 4 levels of descriptors. Describe these 4 levels).
-(you can easily use Rcode for this, just load the dataset and provide the information directly form the tidy data file)
-
-Notes on variable 1:
-
-If available, some additional notes on the variable not covered elsewehere. If no notes are present leave this section out.
-
-Sources
-
-Sources you used if any, otherise leave out.
-
-Annex
-
-If you used any code in the codebook that had the echo=FALSE attribute post this here (make sure you set the results parameter to 'hide' as you do not want the results to show again)
+Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013
