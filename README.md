@@ -4,8 +4,8 @@ Repository to store analysis syntax and test data for Course Project.
 ##Repo Contents:
 1. README.md
 2. run_analysis.R
-3. CODEBOOK.md
-4. Assignment Step 5.txt
+3. Assignment Step 5.txt
+4. CODEBOOK.md
 
 ##Background
 The Coursera course titled Getting & Cleaning Data course project required a solution to complete an analysis on data collected from accelerometers from Samsung Galaxy S smartphones.  More specifically, the solution was to create a tidy data set of the averages of each variable for each activity and each subject.
@@ -60,4 +60,7 @@ The only assumption I made after I quick review of the data information was that
 * Melt the data to a long data set.
 * Reshape the data, aggregating the MEAN values of the variables by SUBJECT and ACTIVITY. This ultimately creates the tidy data set required.
 
-The resulting output file follows the tidy data principles outlined, with each column containing only variable, each row has one observation of a subject and an activity, and the table is a unique observational unit.  Each value represents the mean of all observations of that variable for each activity completed by each subject.
+The resulting output file (Assignment Step 5.txt) follows the tidy data principles outlined, with each column containing only variable, each row has one observation of a subject and an activity, and the table is a unique observational unit.  Each value represents the mean of all observations of that variable for each activity completed by each subject.
+
+##The Codebook
+Also known as the data dictionary, the Codebook describes the variables and values found in the tidy data, their structure, value limitations (if any) & units.
