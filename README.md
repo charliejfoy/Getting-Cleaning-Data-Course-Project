@@ -13,9 +13,9 @@ The Coursera course titled Getting & Cleaning Data course project required a sol
 Data was recorded for 30 subjects, each performing 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) with their smartphone on the waist.
 
 In his paper titled Tidy Data for the Journal of Statistical Science (Vol VV, Issue II), RStudio's Hadley Wickham discusses 3 principles he uses to define tidy data:
-	1. Each variable forms a column;
-	2. Each observation forms a row;
-	3. Each type of observational unit forms a table.
+1. Each variable forms a column;
+2. Each observation forms a row;
+3. Each type of observational unit forms a table.
 
 It is a way to simplify the data sets.
 
