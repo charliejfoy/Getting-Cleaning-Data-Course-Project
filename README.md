@@ -30,18 +30,18 @@ Data was recorded for 30 subjects, each performing 6 activities (WALKING, WALKIN
 The only assumption I made after I quick review of the data information was that there were no NA values.
 
 ##Algorithm
-*Read in FEATURES (this is the variable list for our main data)
-*Read in each of the TEST files (none of them have headers)
-	*the subject file contains only numeric values, a single column identifying the subject.
-	*the activity file contains only numeric values, a single column identifying the activity.
-	*the data file contains only numeric values, 561 columns.
-	*Each file has the same number of rows
-*Merge the test subject, test activity and test data together.
-*Rename the variables to more appropriate names, specifically, those found in the FEATURES data set.
-**Read in each of the TRAIN files (none of them have headers)
-	*the subject file contains only numeric values, a single column identifying the subject.
-	*the activity file contains only numeric values, a single column identifying the activity.
-	*the data file contains only numeric values, 561 columns.
-	*Each file has the same number of rows
-*Merge the train subject, train activity and train data together.
-*Rename the variables to more appropriate names, specifically, those found in the FEATURES data set.
+* Read in FEATURES (this is the variable list for our main data)
+* Read in each of the TEST files (none of them have headers)
+	* the subject file contains only numeric values, a single column identifying the subject.
+	* the activity file contains only numeric values, a single column identifying the activity.
+	* the data file contains only numeric values, 561 columns.
+	* Each file has the same number of rows
+* Merge the test subject, test activity and test data together.
+* Rename the variables to more appropriate names, specifically, those found in the FEATURES data set.
+* Read in each of the TRAIN files (none of them have headers)
+	* the subject file contains only numeric values, a single column identifying the subject.
+	* the activity file contains only numeric values, a single column identifying the activity.
+	* the data file contains only numeric values, 561 columns.
+	* Each file has the same number of rows
+* Merge the train subject, train activity and train data together.
+* Rename the variables to more appropriate names, specifically, those found in the FEATURES data set.
