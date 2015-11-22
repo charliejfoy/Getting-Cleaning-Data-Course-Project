@@ -4,7 +4,7 @@ Repository to store analysis syntax and test data for Course Project.
 ##Repo Contents:
 1. README.md
 2. run_analysis.R
-3. Assignment Step 5.txt
+3. Tidy Data Set.txt
 4. CODEBOOK.md
 
 ##Background
