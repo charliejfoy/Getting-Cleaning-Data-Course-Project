@@ -66,8 +66,10 @@ run_analysis <- function(){
      #Subset to keep only desired variables
      cleanData <- fullData[,varMeanSTD]
      
-     #Clean up the variable names a bit more to remove unsightly brackets
+     #Clean up the variable names a bit more to remove unsightly brackets, clean
+     #duplication of "Body" in some variable names - fBodyBodyAccJerkMag-std
      colnames(cleanData) <- gsub("\\(\\)","",colnames(cleanData))
+     colnames(cleanData) <- gsub("BodyBody","Body",colnames(cleanData))
      
      
      #Read in the activity list, the labels associated with the numerical
